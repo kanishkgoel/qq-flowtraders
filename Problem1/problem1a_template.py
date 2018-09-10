@@ -6,7 +6,7 @@
 #                                LOGIC GOES BELOW                     		#
 ##################################################################################
 #
-#
+#s
 #
 #
 #
@@ -43,7 +43,7 @@ def findSumDieRoll(n):
 
 def findNumberOfRolls(n):
 	##################################
-	##          FILL ME IN          ##
+	##       ##
 	##################################
 	# n is a float
 	numRolls = n/2	# Replace me with your answer
